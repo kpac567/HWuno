@@ -1,0 +1,24 @@
+# 1-code-refactor
+HTML CSS Git Challenge: Code Refactor
+
+## General info
+
+Refactor provided code & css to meet the following acceptance criteria;
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
+## Screenshot URL: https://courses.bootcampspot.com/courses/220/assignments/4551?module_item_id=60266
+
+## Repository URL: https://github.com/brianslopez/1-code-refactor
+
+## Website URL: https://brianslopez.github.io/1-code-refactor/
