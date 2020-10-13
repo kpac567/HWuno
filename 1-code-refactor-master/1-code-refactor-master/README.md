@@ -16,9 +16,3 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-## Screenshot URL: https://courses.bootcampspot.com/courses/220/assignments/4551?module_item_id=60266
-
-## Repository URL: https://github.com/brianslopez/1-code-refactor
-
-## Website URL: https://brianslopez.github.io/1-code-refactor/
